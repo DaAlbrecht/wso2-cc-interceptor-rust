@@ -2,6 +2,12 @@
 name = "wso2-interceptor-types"
 version = "0.1.0"
 edition = "2021"
+description = "Types to implement an interceptor for the WSO2 Choreo Connect API Gateway in Rust."
+keywords = ["choreo-connect", "interceptor", "wso2"]
+categories = ["enterprise-integration","wso2","api-management"]
+repository = "https://github.com/DaAlbrecht/wso2-cc-interceptor-rust"
+license = "MIT"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
